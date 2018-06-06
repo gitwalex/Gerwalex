@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ AWLib: Eine Bibliothek  zur schnellen Entwicklung datenbankbasierter Applicationen
+  ~
+  ~ Copyright [2015] [Alexander Winkler, 2373 Dahme/Germany]
+  ~
+  ~ This program is free software; you can redistribute it and/or modify it under the terms of the
+  ~ GNU General Public License as published by the Free Software Foundation; either version 3 of the
+  ~ License, or (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
+  ~ even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+  ~ General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License along with this program; if
+  ~ not, see <http://www.gnu.org/licenses/>.
+  -->
+<resources>
+    <!-- Preferences Allgemein -->
+    <string name="settings">Einstellungen</string>
+    <string name="awlib_menu_item_hilfe">Hilfe</string>
+    <string name="TitleAllgemeinPrefs">Allgemein</string>
+    <string name="dbTitleDatenbank">Datenbank</string>
+    <string name="dbTitleDBVacuum">Aufräumen</string>
+    <string name="dbSmryDBVacuum">Datenbank komprimieren</string>
+    <string name="pkDBVacuum">sqliteVacuum</string>
+    <string name="dlgDatenbankAufraeumen">Datenbank wird
+        komprimiert</string>
+    <string name="pkDBSave">dbSave</string>
+    <string name="actionDatenbankSichern">Jetzt Sichern</string>
+    <string name="lastSave">Letzte Sicherung</string>
+    <string name="dlgDatenbankSichern">Datenbank wird gesichert</string>
+    <string name="pkDBRestore">dbRestore</string>
+    <string name="actionDatenbankRestore">Wiederherstellen</string>
+    <string name="dbSmryDatenbankRestore">Sicherung Wiederherstellen</string>
+    <string name="dlgDatenbankRestore">Sicherung wird wiederhergestellt und App neu gestartet</string>
+    <!-- Preferences Finanzen -->
+    <string name="tickerDBSicherung">Datenbanksicherung</string>
+    <string name="contentTextDBSicherung">Datenbank wird gesichert</string>
+    <string name="dbSaved">Datenbank gesichert</string>
+    <string name="dbFileError">Datenbank konnte wegen Dateifehler nicht gesichert werden</string>
+    <string name="dbSaveError">Datenbank konnte nicht gesichert werden</string>
+    <string name="pkSavePeriodic">pkSavePeriodic</string>
+    <string name="titleDBSavePeriodic">Regelmäßig sichern</string>
+    <string name="smryDBSavePeriodic">Datenbank wird alle fünf Tage automatisch gesichert</string>
+    <string name="smryDBSavePeriodicOn">Nächste Sicherung : </string>
+    <string name="titleInfo">Info</string>
+    <string name="pkCopyright">Copyright</string>
+    <string name="titleCopyright">Copyright</string>
+    <string name="pkAbout">Über diese App</string>
+    <string name="titleAbout">Über diese App</string>
+    <string name="pkCompileInfo">Compile-Info</string>
+    <string name="pkVersionInfo">Version</string>
+    <string name="pkExterneSicherung">Remotesicherung</string>
+    <string name="smryExterneSicherung">Remotesicherung</string>
+    <string name="titleExterneSicherung">Auf Server sichern</string>
+    <string name="pkServerURL">Servername</string>
+    <string name="titleServerURL">Servername</string>
+    <string name="pkServerUID">User</string>
+    <string name="titleServerUID">User</string>
+    <string name="pkServerPW">Password</string>
+    <string name="btnServerDataEdit">Zugangsdaten ändern</string>
+    <string name="dbServerZugangsdaten">Server Zugangsdaten</string>
+    <string name="dbServerMessage">Der Server meldet: </string>
+    <string name="dbServerMessageErfolgreich">Test erfolgreich!</string>
+    <string name="dlgTitleTime">Uhrzeit</string>
+    <string name="pkServerConnectionType">ConnectionType</string>
+    <string name="pkServerRemoteDirectory">RemoteDirectory</string>
+    <string name="cbConnectionType">verschlüsselte Verbindung</string>
+    <string name="dlgTitleDate">Datum</string>
+    <string name="prefsSummaryAllgemein">Operationen mit der Datenbank und Infos zur App</string>
+    <string name="email">Report per Mail versenden</string>
+    <string name="pkSendMail">Report nach Erstellung versenden</string>
+    <string name="pkEmpfaenger">Empfänger</string>
+    <string name="pkMailBody">Text</string>
+</resources>

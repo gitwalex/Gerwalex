@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ AWLib: Eine Bibliothek  zur schnellen Entwicklung datenbankbasierter Applicationen
+  ~
+  ~ Copyright [2015] [Alexander Winkler, 2373 Dahme/Germany]
+  ~
+  ~ This program is free software; you can redistribute it and/or modify it under the terms of the
+  ~ GNU General Public License as published by the Free Software Foundation; either version 3 of the
+  ~ License, or (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
+  ~ even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+  ~ General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License along with this program; if
+  ~ not, see <http://www.gnu.org/licenses/>.
+  -->
+<resources>
+    <string name="app_name">AWLib</string>
+    <!-- String n/a als Platzhalter -->
+    <string name="na">n/a</string>
+    <!-- UnitID fuer ADMOB -->
+    <string name="awlib_btnCancel">Abbrechen</string>
+    <string name="awlib_btnAccept">OK</string>
+    <!-- Ende Wert fuer MenuItems -->
+    <!-- Texte fuer Buttons --><!-- Texte MasterDetailFragmentButtons -->
+    <string name="awlib_tvNoEntries">Keine Einträge</string>
+    <!-- Ende Allgemeine Texte, die nicht einem bestimmten Fragment zugeordnet werden können -->
+    <string name="awlib_menu_item_calculator">Rechner</string>
+    <string name="Bearbeiten">Bearbeiten</string>
+    <!-- ActionBar Texte -->
+    <!-- FragmentFileChooser und DialogFragmentQIFImport -->
+    <string name="fileChooserTitle">Dateiauswahl</string>
+    <string name="fileChooserTitleDoRestore">Backup-Datei</string>
+    <!-- ActionBar Subtitle fuer FragmentFileChooser -->
+    <string name="fileChooserSubtitel">Bitte auswählen </string>
+    <!-- ActionBar Subtitle fuer DialogFragmentQIFImport -->
+    <!-- Ende ActionBar Texte -->
+    <string name="folder">Folder</string>
+    <string name="awlib_eventservice">AWLibEventService</string>
+    <string name="awlib_nav_Settings">Einstellungen</string>
+    <string name="awlib_noTitle">Kein Titel</string>
+    <string name="awlib_menu_item_add">Neu</string>
+    <string name="awlib_menu_item_edit">Bearbeiten</string>
+    <string name="awlib_menu_item_delete">Löschen</string>
+    <string name="NoInternetConnection">Keine Internetverbindng</string>
+    <string name="awlib_deleteFile">Datei löschen</string>
+    <string name="awlib_openFile">Öffnen</string>
+    <string name="awlib_datensatzSaved">Datensatz gespeichert</string>
+    <string name="awlib_datensatzDeleted">Datensatz gelöscht</string>
+    <string name="titleFileServerKonfigurieren">Serverdaten</string>
+    <string name="awlib_menu_item_save">Speichern</string>
+    <string name="exportErfolgreich">Export erfolgreich</string>
+    <string name="importErfolgreich">Import erfolgreich</string>
+    <string name="dbVersion">Neue DB-Version</string>
+    <string name="awlib_menu_item_camera">Kamera</string>
+    <string name="selectCalendar">Kalender auswählen</string>
+    <string name="pref_calendar_id">calendarID</string>
+    <string name="pref_calendar_name">calendarname</string>
+    <string name="calendarSelected">Kalendar ausgewählt</string>
+    <string name="pkinsertCalendar">prefKeyInsertCalendar</string>
+    <string name="titleInsertCalendar">In den Kalender einfügen</string>
+    <string name="tvGeloescht">Gelöscht</string>
+    <string name="tvRueckgaengig">Rückgängig</string>
+    <string name="noValidEmailAdress">Dies ist keine gültige eMail-Adresse</string>
+    <string name="tvPhoto">Photo</string>
+</resources>
